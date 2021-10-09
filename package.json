@@ -1,0 +1,25 @@
+{
+  "name": "nuevoproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leo-Fer/TP2-TPUsers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leo-Fer/TP2-TPUsers/issues"
+  },
+  "homepage": "https://github.com/Leo-Fer/TP2-TPUsers#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.1.3"
+  }
+}
