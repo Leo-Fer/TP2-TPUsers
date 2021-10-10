@@ -37,7 +37,7 @@ async function borrarUsuario(){
     if(user){
         console.log(await deleteUser(user._id.toString()))
     } else {
-        console.log('No existe el usuario.')
+        console.log('No existe el usuario..')
     }     
 }
 
